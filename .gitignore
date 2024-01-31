@@ -1,0 +1,8 @@
+.vs/
+obj/
+bin/
+packages/**/* 
+!packages/repositories.config
+out/
+TestResults/
+VS2019 Image Library/
